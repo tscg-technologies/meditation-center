@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" class="symbol-lotus" aria-hidden="true">
+  <!-- Minimalist Zen Lotus Emblem -->
+  <!-- Central Petal -->
+  <path d="M50 16 C46 34 44 48 50 68 C56 48 54 34 50 16 Z" fill="currentColor" fill-opacity="0.12" />
+  <!-- Inner Left Petal -->
+  <path d="M50 68 C38 52 30 40 33 26 C41 33 46 48 50 68 Z" fill="currentColor" fill-opacity="0.08" />
+  <!-- Inner Right Petal -->
+  <path d="M50 68 C62 52 70 40 67 26 C59 33 54 48 50 68 Z" fill="currentColor" fill-opacity="0.08" />
+  <!-- Outer Left Petal -->
+  <path d="M50 68 C30 60 16 50 18 36 C29 42 40 56 50 68 Z" fill="currentColor" fill-opacity="0.05" />
+  <!-- Outer Right Petal -->
+  <path d="M50 68 C70 60 84 50 82 36 C71 42 60 56 50 68 Z" fill="currentColor" fill-opacity="0.05" />
+  <!-- Base Calyx / Foundation Ripple Arc -->
+  <path d="M24 74 C34 82 66 82 76 74" stroke-width="2" />
+  <path d="M34 82 C44 87 56 87 66 82" stroke-width="1.6" stroke-opacity="0.7" />
+  <!-- Meditative Zenith Dot -->
+  <circle cx="50" cy="10" r="2" fill="currentColor" stroke="none" />
+</svg>
